@@ -1,0 +1,59 @@
+body {
+  background: #ffffff;
+  font-family: "Open Sans", "sans-serif";
+  padding-top: 45px; }
+
+.konteinerio-pirmas {
+  padding-bottom: 120px; }
+
+.meniubaras-logo {
+  height: auto;
+  width: 15%; }
+  .meniubaras-logo .wlogoo {
+    width: 105px;
+    height: 57px;
+    margin-bottom: -10px; }
+
+.meniubaras-navi {
+  height: auto; }
+  .meniubaras-navi ul {
+    float: right; }
+  .meniubaras-navi ul li {
+    display: inline-block;
+    padding: 5px 10px;
+    padding-top: 15px; }
+  .meniubaras-navi a {
+    font-size: 13px;
+    color: black; }
+
+.meniubaras-regi {
+  height: auto;
+  float: right; }
+  .meniubaras-regi button {
+    font-size: 10px;
+    color: white;
+    float: left;
+    background: #d02782;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px; }
+    .meniubaras-regi button i {
+      font-style: normal; }
+
+.konteinerio-antras {
+  padding-bottom: 23px; }
+
+.intro {
+  padding-top: 10px; }
+  .intro h3 {
+    font-size: 24px; }
+  .intro p {
+    color: #b7b7b9;
+    font-size: 17px; }
+
+.didelispic img {
+  width: 100%;
+  height: auto; }
+
+/*# sourceMappingURL=woman.css.map */

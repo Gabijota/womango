@@ -1,0 +1,89 @@
+$bg: #ffffff;
+$ff: 'Open Sans', 'sans-serif';
+
+body {
+    background: $bg;
+    font-family: $ff;
+    padding-top:45px;
+}
+
+
+.konteinerio-pirmas {
+    padding-bottom:120px;
+}
+
+
+.meniubaras-logo {
+    height: auto;
+    width: 15%;
+
+    .wlogoo { 
+        width:105px; 
+        height:57px;
+        margin-bottom:-10px;
+    } 
+}
+
+
+
+.meniubaras-navi {
+    height: auto; 
+    
+    ul {
+        float: right;
+    }
+        ul li {
+            display: inline-block;
+            padding:5px 10px;
+            padding-top:15px;
+        }
+            a {
+                font-size: 13px;
+                color: black;
+            }
+}
+
+.meniubaras-regi {
+    height: auto; 
+    float:right;
+
+    button {
+        font-size: 10px;
+        color: white;
+        float:left;
+        background:#d02782;
+        padding:10px 10px;
+        border-radius: 5px;
+        margin-left:10px;
+        margin-top:10px;
+
+        i {
+            font-style: normal;
+        }
+    }
+}
+
+.konteinerio-antras {
+    padding-bottom:23px;
+}
+
+.intro {
+     padding-top:10px;
+
+    h3 {font-size: 24px;}
+
+     p {
+         color: #b7b7b9;
+         font-size:17px;
+     }
+}
+
+
+.didelispic {
+    
+    img {
+        
+        width: 100%;
+        height: auto;
+    }
+}
