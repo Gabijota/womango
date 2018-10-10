@@ -22,7 +22,7 @@
 
 <body>
 <header>
-    <div class="konteinerio-pirmas">
+    <div class="konteineris-headeris">
         <div class="container">
             <div class="row">
 

@@ -7,83 +7,206 @@ body {
     padding-top:45px;
 }
 
+.konteineris-headeris {
+    padding-bottom:120px;
+
+
+    .meniubaras-logo {
+        height: auto;
+        width: 15%;
+
+        .wlogoo { 
+            width:105px; 
+            height:57px;
+            margin-bottom:-10px;
+        } 
+    }
+
+    .meniubaras-navi {
+        height: auto; 
+        
+        ul {
+            float: right;
+        }
+            ul li {
+                display: inline-block;
+                padding:5px 10px;
+                padding-top:15px;
+            }
+                a {
+                    font-size: 13px;
+                    color: black;
+                }
+    }
+
+    .meniubaras-regi {
+        height: auto; 
+        float:right;
+
+        button {
+            font-size: 10px;
+            color: white;
+            float:left;
+            background:#d02782;
+            padding:10px 10px;
+            border-radius: 5px;
+            margin-left:10px;
+            margin-top:10px;
+
+            i {
+                font-style: normal;
+            }
+        }
+    }
+}
 
 .konteinerio-pirmas {
-    padding-bottom:120px;
-}
+    padding-bottom:96px;
 
+    .intro {
+        padding-top:10px;
 
-.meniubaras-logo {
-    height: auto;
-    width: 15%;
+        h3 {font-size: 24px;}
 
-    .wlogoo { 
-        width:105px; 
-        height:57px;
-        margin-bottom:-10px;
-    } 
-}
-
-
-
-.meniubaras-navi {
-    height: auto; 
-    
-    ul {
-        float: right;
-    }
-        ul li {
-            display: inline-block;
-            padding:5px 10px;
-            padding-top:15px;
-        }
-            a {
-                font-size: 13px;
-                color: black;
-            }
-}
-
-.meniubaras-regi {
-    height: auto; 
-    float:right;
-
-    button {
-        font-size: 10px;
-        color: white;
-        float:left;
-        background:#d02782;
-        padding:10px 10px;
-        border-radius: 5px;
-        margin-left:10px;
-        margin-top:10px;
-
-        i {
-            font-style: normal;
+        p {
+            color: #b7b7b9;
+            font-size:17px;
         }
     }
 }
-
 .konteinerio-antras {
-    padding-bottom:23px;
-}
-
-.intro {
-     padding-top:10px;
-
-    h3 {font-size: 24px;}
-
-     p {
-         color: #b7b7b9;
-         font-size:17px;
-     }
+    .didelispic {   
+        img {
+                
+            width: 100%;
+            height: auto;
+        }
+    }
 }
 
 
-.didelispic {
+.konteinerio-trecias {
+    width: 100%;
+    height: auto;
+    padding-top: 110px;
+    
+
+    h5 {
+        margin-right: 115px;
+        margin-bottom: 40px;
+        color: #b7b7b9;
+    }
+
+        p {
+            font-size: 17px;
+            margin-right: 115px;
+            margin-bottom: 40px;
+            color: #b7b7b9;
+        }
+}
+
+.konteinerio-ketvirtas {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+    h4 {
+        text-align: center;
+        margin:40px 260px ;
+    }
+
+        p  {font-size: 14px;
+            color: #b7b7b9;
+            text-align: center;
+            margin:40px 260px ;
+        }  
+}
+
+.konteinerio-penktas {
+    width: auto;
+    height: auto;
+
+    .veidas {
+        display: inline-block;
+        
+        img {
+            height: 150px;
+            width: 150px;
+            padding: 15px;
+        }
+
+        h3 {
+            font-size: 13px;
+            font-weight: bold;
+        }
+        
+        p {font-size: 10px;
+            color: #c6c5ca;
+
+        }
+        
+        h4 {font-size: 11px;
+        }
+    }
+}
+
+.konteinerio-sestas {
+    width: auto;
+    height: auto;
     
     img {
-        
-        width: 100%;
-        height: auto;
+        padding-bottom: 88px;
     }
+    h4 {
+        text-align: center;
+        margin:32px 260px ;
+    }
+    p {
+        text-align: center;
+        margin:32px 260px ;
+        color: #b7b7b9;
+        font-size: 14px;
+    }
+}
+
+.konteinerio-septintas {
+    background-image: url("pic/pink_bg.png");
+    background-size: 100% 100%;
+    padding: 124px 62px;
+
+    h4, p {
+        text-align: left;
+    }
+
+    h4 {
+        color: white;
+        margin-bottom:20px;
+    }
+    p {
+        color:#c6c5ca;
+        font-size: 12px;
+    }
+}
+
+
+
+.konteinerio-devintas {
+    width: auto;
+    height: auto;  
+   
+    .trikampis {
+        display: inline-block;
+        width: 33%;
+        
+
+        img {
+            height: 200px;
+            width: 200px;
+            padding: 15px;
+        }
+    }    
+
+    
 }

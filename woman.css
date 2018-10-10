@@ -3,57 +3,138 @@ body {
   font-family: "Open Sans", "sans-serif";
   padding-top: 45px; }
 
-.konteinerio-pirmas {
+.konteineris-headeris {
   padding-bottom: 120px; }
-
-.meniubaras-logo {
-  height: auto;
-  width: 15%; }
-  .meniubaras-logo .wlogoo {
-    width: 105px;
-    height: 57px;
-    margin-bottom: -10px; }
-
-.meniubaras-navi {
-  height: auto; }
-  .meniubaras-navi ul {
+  .konteineris-headeris .meniubaras-logo {
+    height: auto;
+    width: 15%; }
+    .konteineris-headeris .meniubaras-logo .wlogoo {
+      width: 105px;
+      height: 57px;
+      margin-bottom: -10px; }
+  .konteineris-headeris .meniubaras-navi {
+    height: auto; }
+    .konteineris-headeris .meniubaras-navi ul {
+      float: right; }
+    .konteineris-headeris .meniubaras-navi ul li {
+      display: inline-block;
+      padding: 5px 10px;
+      padding-top: 15px; }
+    .konteineris-headeris .meniubaras-navi a {
+      font-size: 13px;
+      color: black; }
+  .konteineris-headeris .meniubaras-regi {
+    height: auto;
     float: right; }
-  .meniubaras-navi ul li {
-    display: inline-block;
-    padding: 5px 10px;
-    padding-top: 15px; }
-  .meniubaras-navi a {
-    font-size: 13px;
-    color: black; }
+    .konteineris-headeris .meniubaras-regi button {
+      font-size: 10px;
+      color: white;
+      float: left;
+      background: #d02782;
+      padding: 10px 10px;
+      border-radius: 5px;
+      margin-left: 10px;
+      margin-top: 10px; }
+      .konteineris-headeris .meniubaras-regi button i {
+        font-style: normal; }
 
-.meniubaras-regi {
-  height: auto;
-  float: right; }
-  .meniubaras-regi button {
-    font-size: 10px;
-    color: white;
-    float: left;
-    background: #d02782;
-    padding: 10px 10px;
-    border-radius: 5px;
-    margin-left: 10px;
-    margin-top: 10px; }
-    .meniubaras-regi button i {
-      font-style: normal; }
+.konteinerio-pirmas {
+  padding-bottom: 96px; }
+  .konteinerio-pirmas .intro {
+    padding-top: 10px; }
+    .konteinerio-pirmas .intro h3 {
+      font-size: 24px; }
+    .konteinerio-pirmas .intro p {
+      color: #b7b7b9;
+      font-size: 17px; }
 
-.konteinerio-antras {
-  padding-bottom: 23px; }
-
-.intro {
-  padding-top: 10px; }
-  .intro h3 {
-    font-size: 24px; }
-  .intro p {
-    color: #b7b7b9;
-    font-size: 17px; }
-
-.didelispic img {
+.konteinerio-antras .didelispic img {
   width: 100%;
   height: auto; }
+
+.konteinerio-trecias {
+  width: 100%;
+  height: auto;
+  padding-top: 110px; }
+  .konteinerio-trecias h5 {
+    margin-right: 115px;
+    margin-bottom: 40px;
+    color: #b7b7b9; }
+  .konteinerio-trecias p {
+    font-size: 17px;
+    margin-right: 115px;
+    margin-bottom: 40px;
+    color: #b7b7b9; }
+
+.konteinerio-ketvirtas {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 40px; }
+  .konteinerio-ketvirtas h4 {
+    text-align: center;
+    margin: 40px 260px; }
+  .konteinerio-ketvirtas p {
+    font-size: 14px;
+    color: #b7b7b9;
+    text-align: center;
+    margin: 40px 260px; }
+
+.konteinerio-penktas {
+  width: auto;
+  height: auto; }
+  .konteinerio-penktas .veidas {
+    display: inline-block; }
+    .konteinerio-penktas .veidas img {
+      height: 150px;
+      width: 150px;
+      padding: 15px; }
+    .konteinerio-penktas .veidas h3 {
+      font-size: 13px;
+      font-weight: bold; }
+    .konteinerio-penktas .veidas p {
+      font-size: 10px;
+      color: #c6c5ca; }
+    .konteinerio-penktas .veidas h4 {
+      font-size: 11px; }
+
+.konteinerio-sestas {
+  width: auto;
+  height: auto; }
+  .konteinerio-sestas img {
+    padding-bottom: 88px; }
+  .konteinerio-sestas h4 {
+    text-align: center;
+    margin: 32px 260px; }
+  .konteinerio-sestas p {
+    text-align: center;
+    margin: 32px 260px;
+    color: #b7b7b9;
+    font-size: 14px; }
+
+.konteinerio-septintas {
+  background-image: url("pic/pink_bg.png");
+  background-size: 100% 100%;
+  padding: 124px 62px; }
+  .konteinerio-septintas h4, .konteinerio-septintas p {
+    text-align: left; }
+  .konteinerio-septintas h4 {
+    color: white;
+    margin-bottom: 20px; }
+  .konteinerio-septintas p {
+    color: #c6c5ca;
+    font-size: 12px; }
+
+.konteinerio-devintas {
+  width: auto;
+  height: auto; }
+  .konteinerio-devintas .trikampis {
+    display: inline-block;
+    width: 33%; }
+    .konteinerio-devintas .trikampis img {
+      height: 200px;
+      width: 200px;
+      padding: 15px; }
 
 /*# sourceMappingURL=woman.css.map */
