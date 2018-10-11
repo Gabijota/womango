@@ -285,61 +285,124 @@
             <div class="col-md-12 text-center">
 
                 <div class="veiduk">
-                        <img src="pic/zmogas3.png" alt="veidas">
+                        <img class="lala" src="pic/zmogas3.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
-                        <a class="label" href="#"><img src="pic/facebook-icon.png" alt="facebook"></a>
-                        <a class="label" href="#"><img src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        <a href="#"><img class="label" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="label" src="pic/linkedin-icon.png" alt="linkedin"></a>
                 </div>
                 <div class="veiduk">
-                        <img src="pic/zmogas1.png" alt="veidas">
+                        <img class="lala" src="pic/zmogas1.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
-                        <a class="label" href="#"><img src="pic/facebook-icon.png" alt="facebook"></a>
-                        <a class="label" href="#"><img src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        <a href="#"><img class="label" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="label" src="pic/linkedin-icon.png" alt="linkedin"></a>
                 </div>
                 <div class="veiduk">
-                        <img src="pic/zmogas2.png" alt="veidas">
+                        <img class="lala" src="pic/zmogas2.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
-                        <a class="label" href="#"><img src="pic/facebook-icon.png" alt="facebook"></a>
-                        <a class="label" href="#"><img src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        <a href="#"><img class="label" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="label" src="pic/linkedin-icon.png" alt="linkedin"></a>
                 </div>
                 <div class="veiduk">
-                        <img src="pic/zmogas3.png" alt="veidas">
+                        <img class="lala" src="pic/zmogas3.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
-                        <a class="label" href="#"><img src="pic/facebook-icon.png" alt="facebook"></a>
-                        <a class="label" href="#"><img src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        <a href="#"><img class="label" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="label" src="pic/linkedin-icon.png" alt="linkedin"></a>
                 </div>
                 <div class="veiduk">
-                        <img src="pic/zmogas1.png" alt="veidas">
+                        <img class="lala" src="pic/zmogas1.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
-                        <a class="label" href="#"><img src="pic/facebook-icon.png" alt="facebook"></a>
-                        <a class="label" href="#"><img src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        <a href="#"><img class="label" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="label" src="pic/linkedin-icon.png" alt="linkedin"></a>
                 </div>
                 <div class="veiduk">
-                        <img src="pic/zmogas2.png" alt="veidas">
+                        <img class="lala" src="pic/zmogas2.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
-                        <a class="label" href="#"><img src="pic/facebook-icon.png" alt="facebook"></a>
-                        <a class="label" href="#"><img src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        <a href="#"><img class="label" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="label" src="pic/linkedin-icon.png" alt="linkedin"></a>
                 </div>
                 <div class="veiduk">
-                        <img src="pic/zmogas3.png" alt="veidas">
+                        <img class="lala" src="pic/zmogas3.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
-                        <a class="label" href="#"><img src="pic/facebook-icon.png" alt="facebook"></a>
-                        <a class="label" href="#"><img src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        <a href="#"><img class="label" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="label" src="pic/linkedin-icon.png" alt="linkedin"></a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
+<div class="konteinerio-dvyliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4>Patarėjai</h4>  
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="konteinerio-tryliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+        <div class="gaublys">
 
+                        <div class="patarejai">
+                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                        
+                        <a href="#"><img class="labelis" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="labelis" src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        </div>
+
+                        <div class="patarejai">
+                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+
+                        <a href="#"><img class="labelis" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="labelis" src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        </div>
+
+                        <div class="patarejai">
+                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+
+                        <a href="#"><img class="labelis" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="labelis" src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        </div>
+
+                        <div class="patarejai">
+                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+
+                        <a href="#"><img class="labelis" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="labelis" src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        </div>
+
+                        <div class="patarejai">
+                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+
+                        <a href="#"><img class="labelis" src="pic/facebook-icon.png" alt="facebook"></a>
+                        <a href="#"><img class="labelis" src="pic/linkedin-icon.png" alt="linkedin"></a>
+                        </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 

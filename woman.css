@@ -161,7 +161,7 @@ body {
   height: auto; }
   .konteinerio-vienuoliktas .veiduk {
     display: inline-block; }
-    .konteinerio-vienuoliktas .veiduk img {
+    .konteinerio-vienuoliktas .veiduk .lala {
       height: 200px;
       width: 200px;
       padding: 30px; }
@@ -175,5 +175,36 @@ body {
       font-size: 11px; }
     .konteinerio-vienuoliktas .veiduk a {
       display: inline-block; }
+    .konteinerio-vienuoliktas .veiduk .label {
+      height: 30px;
+      width: 30px;
+      margin: 2px; }
+
+.konteinerio-dvyliktas {
+  padding: 60px; }
+
+.konteinerio-tryliktas {
+  width: auto;
+  height: auto; }
+  .konteinerio-tryliktas .gaublys {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; }
+  .konteinerio-tryliktas .patarejai {
+    width: 17%;
+    height: 60px; }
+    .konteinerio-tryliktas .patarejai .miau {
+      height: 50%;
+      width: 100%; }
+    .konteinerio-tryliktas .patarejai h3 {
+      font-size: 14px;
+      font-weight: bold; }
+    .konteinerio-tryliktas .patarejai p {
+      font-size: 10px;
+      color: #c6c5ca; }
+    .konteinerio-tryliktas .patarejai .labelis {
+      height: 30px;
+      width: 30px;
+      margin: 2px; }
 
 /*# sourceMappingURL=woman.css.map */

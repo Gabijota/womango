@@ -246,7 +246,7 @@ body {
     .veiduk {
         display: inline-block;
         
-        img {
+        .lala {
             height: 200px;
             width: 200px;
             padding: 30px;
@@ -269,5 +269,53 @@ body {
             display: inline-block;
         }
 
+       .label {
+            height:30px;
+            width:30px;
+            margin: 2px;
+        }
+    }
+}
+
+.konteinerio-dvyliktas {
+    padding:60px;
+
+}
+
+.konteinerio-tryliktas {
+    width: auto;
+    height: auto;
+
+.gaublys {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+    .patarejai {
+        width: 17%;
+        height: 60px;
+        
+        .miau{
+            height: 50%;
+            width: 100%;
+            
+        }
+
+        h3 {
+            font-size: 14px;
+            font-weight: bold;
+        }
+        
+        p {font-size: 10px;
+            color: #c6c5ca;
+
+        }
+   
+       .labelis {
+            height:30px;
+            width:30px;
+            margin: 2px;
+        }
     }
 }
