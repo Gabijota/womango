@@ -190,23 +190,84 @@ body {
     }
 }
 
-
+.konteinerio-astuntas {
+    padding: 60px 0;
+    
+}
 
 .konteinerio-devintas {
     width: auto;
     height: auto;  
+    padding-bottom: 130px; 
    
     .trikampis {
         display: inline-block;
         width: 33%;
+        margin-bottom:20px;
         
 
         img {
-            height: 200px;
-            width: 200px;
+            height: 210px;
+            width: 240px;
             padding: 15px;
         }
-    }    
 
+        p {
+            color:#c6c5ca;
+            font-size: 12px;
+            font-weight: bold;
+        }
+    }     
+}
+
+.konteinerio-desimtas {
     
+    .zemiau {
+        padding:10px 0px 120px 0px;
+
+    }
+
+    .auksciausone {
+        padding-bottom: 120px;
+    
+        p {
+            color:#c6c5ca;
+            font-size: 14px;
+            font-weight: bold;
+            text-align: left;
+        }
+    }
+}
+
+.konteinerio-vienuoliktas {
+    width: auto;
+    height: auto;
+
+    .veiduk {
+        display: inline-block;
+        
+        img {
+            height: 200px;
+            width: 200px;
+            padding: 30px;
+        }
+
+        h3 {
+            font-size: 14px;
+            font-weight: bold;
+        }
+        
+        p {font-size: 10px;
+            color: #c6c5ca;
+
+        }
+        
+        h4 {font-size: 11px;
+        }
+
+        a {
+            display: inline-block;
+        }
+
+    }
 }

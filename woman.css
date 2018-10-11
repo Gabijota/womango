@@ -126,15 +126,54 @@ body {
     color: #c6c5ca;
     font-size: 12px; }
 
+.konteinerio-astuntas {
+  padding: 60px 0; }
+
 .konteinerio-devintas {
   width: auto;
-  height: auto; }
+  height: auto;
+  padding-bottom: 130px; }
   .konteinerio-devintas .trikampis {
     display: inline-block;
-    width: 33%; }
+    width: 33%;
+    margin-bottom: 20px; }
     .konteinerio-devintas .trikampis img {
+      height: 210px;
+      width: 240px;
+      padding: 15px; }
+    .konteinerio-devintas .trikampis p {
+      color: #c6c5ca;
+      font-size: 12px;
+      font-weight: bold; }
+
+.konteinerio-desimtas .zemiau {
+  padding: 10px 0px 120px 0px; }
+.konteinerio-desimtas .auksciausone {
+  padding-bottom: 120px; }
+  .konteinerio-desimtas .auksciausone p {
+    color: #c6c5ca;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left; }
+
+.konteinerio-vienuoliktas {
+  width: auto;
+  height: auto; }
+  .konteinerio-vienuoliktas .veiduk {
+    display: inline-block; }
+    .konteinerio-vienuoliktas .veiduk img {
       height: 200px;
       width: 200px;
-      padding: 15px; }
+      padding: 30px; }
+    .konteinerio-vienuoliktas .veiduk h3 {
+      font-size: 14px;
+      font-weight: bold; }
+    .konteinerio-vienuoliktas .veiduk p {
+      font-size: 10px;
+      color: #c6c5ca; }
+    .konteinerio-vienuoliktas .veiduk h4 {
+      font-size: 11px; }
+    .konteinerio-vienuoliktas .veiduk a {
+      display: inline-block; }
 
 /*# sourceMappingURL=woman.css.map */

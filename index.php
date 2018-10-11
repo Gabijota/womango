@@ -92,11 +92,6 @@
                         <p>Vadovė <br>CG trader</p>
                 </div> 
                 <div class="veidas">
-                        <img src="pic/zmogas1.png" alt="veidas">
-                        <h3>Dalia Lašaitė</h3>
-                        <p>Vadovė <br>CG trader</p>
-                </div>
-                <div class="veidas">
                         <img src="pic/zmogas2.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
@@ -108,10 +103,20 @@
                 </div>
                 <div class="veidas">
                         <img src="pic/zmogas1.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+                <div class="veidas">
+                        <img src="pic/zmogas2.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
                 </div> 
                 <div class="veidas">
+                        <img src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+                <div class="veidas">
                         <img src="pic/zmogas1.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
@@ -123,11 +128,6 @@
                 </div>
                 <div class="veidas">
                         <img src="pic/zmogas3.png" alt="veidas">
-                        <h3>Dalia Lašaitė</h3>
-                        <p>Vadovė <br>CG trader</p>
-                </div>
-                <div class="veidas">
-                        <img src="pic/zmogas1.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
                 </div> 
@@ -224,31 +224,31 @@
 
                 <div class="trikampis">
                         <img src="pic/birzelis.png" alt="veidas">
-                        <h3>Sausis</h3>
+                        <h5>Sausis</h5>
                         <p>"Woman Go Tech"- pirmoji mentorystės programa Lietuvoje skirta studentėms ir profesinį kelią
                      pradėjusioms moterims kurias domina karjera technologijų sektoriuje.</p>
                 </div>
                 <div class="trikampis">
                         <img src="pic/lapkritis.png" alt="veidas">
-                        <h3>Vasaris</h3>
+                        <h5>Vasaris</h5>
                         <p>"Woman Go Tech"- pirmoji mentorystės programa Lietuvoje skirta studentėms ir profesinį kelią
                      pradėjusioms moterims kurias domina karjera technologijų sektoriuje.</p>
                 </div>
                 <div class="trikampis">
                         <img src="pic/gruodis.png" alt="veidas">
-                        <h3>Kovas</h3>
+                        <h5>Kovas</h5>
                         <p>"Woman Go Tech"- pirmoji mentorystės programa Lietuvoje skirta studentėms ir profesinį kelią
                      pradėjusioms moterims kurias domina karjera technologijų sektoriuje.</p>
                 </div>
                 <div class="trikampis">
                         <img src="pic/sausis.png" alt="veidas">
-                        <h3>Balandis</h3>
+                        <h5>Balandis</h5>
                         <p>"Woman Go Tech"- pirmoji mentorystės programa Lietuvoje skirta studentėms ir profesinį kelią
                      pradėjusioms moterims kurias domina karjera technologijų sektoriuje.</p>
                 </div>
                 <div class="trikampis">
                         <img src="pic/vasaris.png" alt="veidas">
-                        <h3>Gegužė</h3>
+                        <h5>Gegužė</h5>
                         <p>"Woman Go Tech"- pirmoji mentorystės programa Lietuvoje skirta studentėms ir profesinį kelią
                      pradėjusioms moterims kurias domina karjera technologijų sektoriuje.</p>
                 </div>
@@ -258,11 +258,73 @@
     </div>
 </div>
 
+<div class="konteinerio-desimtas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="zemiau">
+                <h4>Komanda</h4>
+                <br>
+                <img src="pic/infobalt.png" alt="balt">  
+            </div>
+            </div>
+            <div class="col-md-6 text-center">
+            <div class="auksciausone">
+                <p>"Woman Go Tech"- pirmoji mentorystės programa Lietuvoje skirta studentėms ir profesinį kelią
+                     pradėjusioms moterims kurias domina karjera technologijų sektoriuje.<p>  
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
+<div class="konteinerio-vienuoliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
 
-
-
+                <div class="veiduk">
+                        <img src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                        <a><i> </i></a>
+                        <a><i></i></a>
+                </div>
+                <div class="veiduk">
+                        <img src="pic/zmogas1.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+                <div class="veiduk">
+                        <img src="pic/zmogas2.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+                <div class="veiduk">
+                        <img src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+                <div class="veiduk">
+                        <img src="pic/zmogas1.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+                <div class="veiduk">
+                        <img src="pic/zmogas2.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+                <div class="veiduk">
+                        <img src="pic/zmogas3.png" alt="veidas">
+                        <h3>Dalia Lašaitė</h3>
+                        <p>Vadovė <br>CG trader</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
