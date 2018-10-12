@@ -355,7 +355,7 @@
         <div class="gaublys">
 
                         <div class="patarejai">
-                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <img class="miau" src="pic/zmogas1.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
                         
@@ -364,7 +364,7 @@
                         </div>
 
                         <div class="patarejai">
-                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <img class="miau" src="pic/zmogas2.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
 
@@ -382,7 +382,7 @@
                         </div>
 
                         <div class="patarejai">
-                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <img class="miau" src="pic/zmogas1.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
 
@@ -391,7 +391,7 @@
                         </div>
 
                         <div class="patarejai">
-                        <img class="miau" src="pic/zmogas3.png" alt="veidas">
+                        <img class="miau" src="pic/zmogas2.png" alt="veidas">
                         <h3>Dalia Lašaitė</h3>
                         <p>Vadovė <br>CG trader</p>
 
@@ -414,9 +414,102 @@
     </div>
 </div>
 
+<div class="konteinerio-penkioliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+            <img class="suldu" src="pic/softas.png" alt="logo">
+            <img class="suldu" src="pic/wix.png" alt="logo">
+            <img class="suldu" src="pic/nasdaq.png" alt="logo">
+            <img class="suldu" src="pic/trafi.png" alt="logo">
+            </div>
+        </div>
+    </div>
+</div>
 
 
+<div class="konteinerio-sesioliktas">
+     <div class="container">
+        <div class="row">
 
+            <div class="col-md-6 text-center">
+                <h5><strong>KOMUNIKACIJOS PARNERIS</strong></h5>  
+                <img src="pic/nova.png" alt="logo">
+            </div>
+            <div class="col-md-6 text-center">
+                <h5><strong>MEDIA PARTNERIS</strong></h5>
+                <img class="delfi" src="pic/delfi.png" alt="logo">  
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="konteinerio-septynioliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h5><strong>DRAUGAI</strong></h5>  
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="konteinerio-astonioliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="gaubia">
+                <img class="kva" src="pic/baltas.png" alt="logo">
+                <img class="kva" src="pic/volfas.png" alt="logo">
+                <img class="kva" src="pic/opolis.png" alt="logo">
+                <img class="kva" src="pic/vilnius.png" alt="logo">
+            </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="konteinerio-devynioliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-6 text-center">
+                <div class="gaubia">
+
+                    <form>
+                    Tavo vardas ir pavardė:<br>
+                    <input type="text" name="firstname" value="Mickey">
+                    <br>
+                    El. paštas:<br>
+                    <input type="text" name="lastname" value="Mouse">
+                    <br><br>
+                    
+                    Tel. numeris:<br>
+                    <input type="text" name="lastname" value="Mouse">
+                    <br><br>
+                   
+                    Kodėl nori aplikuoti:<br>
+                    <input type="text" name="lastname" value="Mouse">
+                    <br><br>
+                    
+                    </form> 
+
+                </div>
+            </div>
+
+             <div class="col-md-6 text-center">
+                 <div class="moteriske">
+                 <img class="boba" src="pic/moteris.png" alt="mot">
+                </div> 
+             </div>     
+
+            </div>
+        </div>
+    </div>
+</div>
 
 
 

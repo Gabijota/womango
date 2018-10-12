@@ -280,13 +280,14 @@ body {
 .konteinerio-dvyliktas {
 
     h4 {
-        margin-top: 50px;
+        margin: 50px 0px;
     }
 }
 
 .konteinerio-tryliktas {
     width: auto;
     height: auto;
+    padding-bottom: 20px;
 
 .gaublys {
     display: flex;
@@ -318,5 +319,56 @@ body {
             width:30px;
             margin: 2px;
         }
+    }
+}
+
+.konteinerio-keturioliktas {
+       
+        padding-top: 60px;
+        padding-bottom: 10px;    
+}
+
+.konteinerio-penkioliktas {
+   
+    .suldu {
+        padding: 20px;
+    }
+}
+
+
+.konteinerio-sesioliktas {
+        
+        padding-top: 40px;
+        padding-bottom: 10px;
+   
+   h3 {
+        margin-bottom: 20px;
+        }
+    
+    .delfi {
+        max-height: 59px;
+    }
+}
+
+.konteinerio-septynioliktas {
+        
+    padding-top: 10px;
+
+}
+
+.konteinerio-astonioliktas{
+   
+    padding-bottom: 40px;
+    
+            .kva {
+               
+                padding:10px;
+            }
+}
+
+.konteinerio-devynioliktas {
+
+    .moteriske {
+        float: right;
     }
 }
