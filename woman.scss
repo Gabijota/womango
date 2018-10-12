@@ -278,8 +278,10 @@ body {
 }
 
 .konteinerio-dvyliktas {
-    padding:60px;
 
+    h4 {
+        margin-top: 50px;
+    }
 }
 
 .konteinerio-tryliktas {
@@ -294,12 +296,11 @@ body {
 
     .patarejai {
         width: 17%;
-        height: 60px;
+        height: auto;
         
         .miau{
-            height: 50%;
-            width: 100%;
-            
+            height: 150px;
+            width: 150px;  
         }
 
         h3 {

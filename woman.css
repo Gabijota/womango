@@ -180,8 +180,8 @@ body {
       width: 30px;
       margin: 2px; }
 
-.konteinerio-dvyliktas {
-  padding: 60px; }
+.konteinerio-dvyliktas h4 {
+  margin-top: 50px; }
 
 .konteinerio-tryliktas {
   width: auto;
@@ -192,10 +192,10 @@ body {
     justify-content: space-between; }
   .konteinerio-tryliktas .patarejai {
     width: 17%;
-    height: 60px; }
+    height: auto; }
     .konteinerio-tryliktas .patarejai .miau {
-      height: 50%;
-      width: 100%; }
+      height: 150px;
+      width: 150px; }
     .konteinerio-tryliktas .patarejai h3 {
       font-size: 14px;
       font-weight: bold; }

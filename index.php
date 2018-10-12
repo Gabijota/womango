@@ -404,7 +404,15 @@
     </div>
 </div>
 
-
+<div class="konteinerio-keturioliktas">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h4>Rėmėjai</h4>  
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
