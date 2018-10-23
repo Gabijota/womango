@@ -476,27 +476,24 @@
 <div class="konteinerio-devynioliktas">
      <div class="container">
         <div class="row">
-            <div class="col-md-6 text-center">
+            <div class="col-md-6 ">
                 <div class="gaubia">
 
-                    <form>
-                    Tavo vardas ir pavardė:<br>
-                    <input type="text" name="firstname" value="Mickey">
+                    <h2>Aplikuok šiandien!</h2>
+                    <h4>Paskubėk nes registracija tik iki Gruodžio 1!</h4>
                     <br>
-                    El. paštas:<br>
-                    <input type="text" name="lastname" value="Mouse">
-                    <br><br>
-                    
-                    Tel. numeris:<br>
-                    <input type="text" name="lastname" value="Mouse">
-                    <br><br>
-                   
-                    Kodėl nori aplikuoti:<br>
-                    <input type="text" name="lastname" value="Mouse">
-                    <br><br>
-                    
-                    </form> 
-
+                    <br>
+                    <br>
+                    <form>
+                        Tavo vardas ir pavardė:<br>
+                        < input type="text" name="Jusu vardas"><br>
+                        El. paštas:<br>
+                        <input type="text" name="Jusu pavarde"><br>
+                        Tel. numeris:<br>
+                        <input type="text" name="Paskutine tureta darbo pozicija"><br>
+                        Kodėl nori aplikuoti:<br>
+                        <input type="text" name="Kiek laiko dirbote sioje pozicijoje?"><br>
+                    </form>
                 </div>
             </div>
 

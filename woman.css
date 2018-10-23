@@ -234,4 +234,9 @@ body {
 .konteinerio-devynioliktas .moteriske {
   float: right; }
 
+.konteinerio-devynioliktas .gaubia {
+  padding-top: 10px; }
+  .konteinerio-devynioliktas .gaubia h4 {
+    color: #c6c5ca; }
+
 /*# sourceMappingURL=woman.css.map */
